@@ -1,0 +1,316 @@
+cve_ent,entidad,cve_plantel,plantel,periodo_semestral,Porcentaje_de_abandono_escolar
+1,Aguascalientes,63,Aguascalientes II,2021_2022,9.1
+1,Aguascalientes,284,Aguascalientes III,2021_2022,17.4
+1,Aguascalientes,318,Aguascalientes IV,2021_2022,11.2
+1,Aguascalientes,247,Ing. Miguel Ángel Barberena Vega,2021_2022,8.9
+1,Aguascalientes,319,Pabellon de Arteaga,2021_2022,9.8
+1,Aguascalientes,16,Prof. J. Refugio Esparza Reyes,2021_2022,12.6
+2,Aguascalientes,285,Tepezalá,2021_2022,16.4
+2,Baja California,64,Ensenada,2021_2022,20.3
+2,Baja California,215,Ing. César Moreno Martínez de Escobar,2021_2022,18.2
+2,Baja California,17,Mexicali I,2021_2022,20.6
+2,Baja California,154,Mexicali II,2021_2022,15
+2,Baja California,18,Tijuana I,2021_2022,11.7
+2,Baja California,143,Tijuana II,2021_2022,24.8
+3,Baja California Sur,19,La Paz,2021_2022,19
+3,Baja California Sur,282,San José del Cabo,2021_2022,9.6
+4,Campeche,21,Ciudad del Carmen,2021_2022,17.1
+4,Campeche,272,Dzitbalché Calkiní,2021_2022,5.7
+4,Campeche,20,Lic. Guillermo González Galera,2021_2022,12.9
+7,Chiapas,331,Altamirano,2021_2022,18.5
+7,Chiapas,22,Chiapa de Corzo,2021_2022,15.8
+7,Chiapas,70,Comitán,2021_2022,8.6
+7,Chiapas,67,Huixtla,2021_2022,17.1
+7,Chiapas,262,Ocosingo,2021_2022,9.2
+7,Chiapas,69,Palenque,2021_2022,17.6
+7,Chiapas,340,Pichucalco,2021_2022,56.4
+7,Chiapas,171,San Cristóbal de las Casas,2021_2022,17.2
+7,Chiapas,325,Tapachula,2021_2022,8.8
+7,Chiapas,170,Tonalá-Chiapas,2021_2022,25
+7,Chiapas,68,Tuxtla Chico,2021_2022,18
+7,Chiapas,312,Tuxtla Gutiérrez,2021_2022,13.9
+8,Chihuahua,25,Chihuahua I,2021_2022,5.8
+8,Chihuahua,219,Chihuahua II,2021_2022,22.1
+8,Chihuahua,218,Ciudad Cuauhtémoc,2021_2022,20.2
+8,Chihuahua,208,Ciudad Delicias,2021_2022,36.1
+8,Chihuahua,26,Ciudad Juárez I,2021_2022,22.3
+8,Chihuahua,207,Ciudad Juárez II,2021_2022,15.2
+8,Chihuahua,323,Juárez III,2021_2022,8
+8,Chihuahua,156,Parral,2021_2022,20.1
+9,Ciudad de México,132,Aeropuerto,2021_2022,12.1
+9,Ciudad de México,220,Alvaro Obregón I,2021_2022,12
+9,Ciudad de México,221,Alvaro Obregón II,2021_2022,19.5
+9,Ciudad de México,4,Aragón,2021_2022,16.3
+9,Ciudad de México,106,Azcapotzalco,2021_2022,17.2
+9,Ciudad de México,11,Aztahuacán,2021_2022,16.1
+9,Ciudad de México,161,Centro México Canadá del CONALEP,2021_2022,18.5
+9,Ciudad de México,166,Comercio y Fomento Industrial,2021_2022,10.4
+9,Ciudad de México,189,Coyoacán,2021_2022,7.9
+9,Ciudad de México,195,Gustavo A. Madero I,2021_2022,17.6
+9,Ciudad de México,224,Gustavo A. Madero II,2021_2022,11.2
+9,Ciudad de México,2,Ing. José Antonio Padilla Segura III,2021_2022,23.4
+9,Ciudad de México,210,Iztacalco I,2021_2022,4.1
+9,Ciudad de México,3,Iztapalapa I,2021_2022,15.1
+9,Ciudad de México,196,Iztapalapa II,2021_2022,25.4
+9,Ciudad de México,226,Iztapalapa III,2021_2022,24.1
+9,Ciudad de México,225,Iztapalapa IV,2021_2022,12.4
+9,Ciudad de México,211,Iztapalapa V,2021_2022,23.3
+9,Ciudad de México,209,Magdalena Contreras,2021_2022,17.9
+9,Ciudad de México,227,Milpa Alta,2021_2022,19.5
+9,Ciudad de México,267,Santa Fe,2021_2022,15.4
+9,Ciudad de México,230,Tláhuac,2021_2022,30.8
+9,Ciudad de México,186,Tlalpan I,2021_2022,16.2
+9,Ciudad de México,212,Tlalpan II,2021_2022,11.3
+9,Ciudad de México,15,Venustiano Carranza I,2021_2022,15.1
+9,Ciudad de México,245,Venustiano Carranza II,2021_2022,-0.6
+9,Ciudad de México,12,Xochimilco,2021_2022,18.3
+5,Coahuila de Zaragoza,159,Ciudad Acuña,2021_2022,16.7
+5,Coahuila de Zaragoza,292,Frontera,2021_2022,9.4
+5,Coahuila de Zaragoza,66,Monclova,2021_2022,10.1
+5,Coahuila de Zaragoza,24,Muzquiz,2021_2022,13
+5,Coahuila de Zaragoza,10,Piedras Negras,2021_2022,9.1
+5,Coahuila de Zaragoza,23,Saltillo I,2021_2022,11
+5,Coahuila de Zaragoza,217,Saltillo II,2021_2022,9.4
+5,Coahuila de Zaragoza,255,San Pedro de las Colonias,2021_2022,4
+5,Coahuila de Zaragoza,216,Torreón,2021_2022,14
+6,Colima,181,Colima,2021_2022,14.9
+6,Colima,61,Prof. Gustavo Alberto Vázquez Montes,2021_2022,15.6
+6,Colima,313,Tecoman,2021_2022,18
+10,Durango,146,Centro Mexicano Francés del CONALEP,2021_2022,17.9
+10,Durango,130,Durango,2021_2022,28.1
+10,Durango,299,Tayoltita,2021_2022,29.2
+11,Guanajuato,163,Acámbaro,2021_2022,7.5
+11,Guanajuato,28,Celaya,2021_2022,12.3
+11,Guanajuato,233,Cortazar,2021_2022,0.3
+11,Guanajuato,30,Felipe Benicio Martínez Chapa,2021_2022,15.1
+11,Guanajuato,29,Irapuato,2021_2022,9.7
+11,Guanajuato,327,Irapuato II,2021_2022,27.4
+11,Guanajuato,203,León II,2021_2022,8.7
+11,Guanajuato,302,León III,2021_2022,7.2
+11,Guanajuato,128,Moroleón,2021_2022,14.3
+11,Guanajuato,174,Pénjamo,2021_2022,20.6
+11,Guanajuato,321,Salamanca,2021_2022,5.1
+11,Guanajuato,249,Salvatierra,2021_2022,10.7
+11,Guanajuato,303,San Felipe,2021_2022,8.5
+11,Guanajuato,270,San José Iturbide,2021_2022,4.4
+11,Guanajuato,204,Silao,2021_2022,12.2
+11,Guanajuato,72,Valle de Santiago,2021_2022,10.7
+12,Guerrero,111,Acapulco I,2021_2022,17.2
+12,Guerrero,206,Acapulco II,2021_2022,13.4
+12,Guerrero,334,Buenavista de Cuellar,2021_2022,7.1
+12,Guerrero,133,Chilapa,2021_2022,15.4
+12,Guerrero,113,Chilpancingo,2021_2022,23.6
+12,Guerrero,112,Iguala,2021_2022,20.4
+12,Guerrero,139,Ometepec,2021_2022,18.3
+12,Guerrero,134,Tixtla,2021_2022,16.6
+12,Guerrero,335,Tlapa de Comonfort,2021_2022,22.3
+12,Guerrero,27,Zihuatanejo,2021_2022,26.5
+13,Hidalgo,31,Pachuca,2021_2022,14.9
+13,Hidalgo,288,Pachuca II,2021_2022,7.5
+13,Hidalgo,214,Tepeji del Río,2021_2022,15
+13,Hidalgo,178,Tizayuca,2021_2022,13
+13,Hidalgo,250,Tulancingo,2021_2022,8.7
+13,Hidalgo,287,Villa de Tezontepec,2021_2022,7.8
+14,Jalisco,182,Acatlán de Juárez,2021_2022,26.8
+14,Jalisco,281,Ajijic-Chapala,2021_2022,21.8
+14,Jalisco,74,Arandas,2021_2022,9.4
+14,Jalisco,76,Guadalajara I,2021_2022,24.4
+14,Jalisco,71,Guadalajara II,2021_2022,15.9
+14,Jalisco,234,Guadalajara III,2021_2022,22.6
+14,Jalisco,110,Jalostotitlán,2021_2022,19.1
+14,Jalisco,78,José Ma. Martínez R.,2021_2022,13.2
+14,Jalisco,131,Juanacatlán,2021_2022,13.9
+14,Jalisco,260,La Barca,2021_2022,21.5
+14,Jalisco,168,Lagos de Moreno,2021_2022,12.7
+14,Jalisco,32,"Lic. Francisco Medina Ascencio, Mexicano-Italiano",2021_2022,19.5
+14,Jalisco,235,Profra. Idolina Gaona de Cosio - Tonalá,2021_2022,18.5
+14,Jalisco,75,Puerto Vallarta,2021_2022,11.9
+14,Jalisco,293,Puerto Vallarta II,2021_2022,15
+14,Jalisco,322,Tapalpa,2021_2022,8.6
+14,Jalisco,77,Tlaquepaque,2021_2022,16.8
+14,Jalisco,258,Zapopan,2021_2022,13.8
+15,México,81,Almoloya del Río,2021_2022,9.1
+15,México,183,Atizapán I,2021_2022,11.1
+15,México,248,Atizapán II,2021_2022,8.1
+15,México,33,Atlacomulco,2021_2022,5
+15,México,263,Chalco,2021_2022,12.4
+15,México,107,Chimalhuacán,2021_2022,9.2
+15,México,1,Ciudad Azteca,2021_2022,9.3
+15,México,184,Coacalco,2021_2022,6.8
+15,México,108,Cuautitlán I,2021_2022,12.5
+15,México,14,Del Sol,2021_2022,7.6
+15,México,192,Ecatepec I,2021_2022,6.6
+15,México,222,Ecatepec II,2021_2022,8.9
+15,México,223,Ecatepec III,2021_2022,13.9
+15,México,8,El Oro,2021_2022,4
+15,México,125,El Zarco,2021_2022,12.9
+15,México,6,Gustavo Baz - Tlalnepantla,2021_2022,9.7
+15,México,198,Huixquilucan,2021_2022,8.4
+15,México,109,Ing. Bernardo Quintana Arrioja - Cuautitlán,2021_2022,9.3
+15,México,236,Ixtapaluca,2021_2022,10.6
+15,México,199,Lerma,2021_2022,8.9
+15,México,197,Los Reyes la Paz,2021_2022,15.7
+15,México,187,Naucalpan I,2021_2022,13.3
+15,México,188,Naucalpan II,2021_2022,11
+15,México,190,Nezahualcóyotl I,2021_2022,7.6
+15,México,191,Nezahualcóyotl II,2021_2022,4.8
+15,México,229,Nezahualcóyotl III,2021_2022,13.9
+15,México,237,Nicolás Romero,2021_2022,12.7
+15,México,79,Santiago Tianguistenco,2021_2022,4.3
+15,México,126,Santiago Tilapa,2021_2022,5.3
+15,México,238,Tecámac,2021_2022,10.9
+15,México,80,Temoaya,2021_2022,6.9
+15,México,185,Texcoco,2021_2022,10.4
+15,México,193,Tlalnepantla I,2021_2022,9.3
+15,México,228,Tlalnepantla II,2021_2022,7.1
+15,México,231,Tlalnepantla III,2021_2022,5.2
+15,México,34,Toluca,2021_2022,6.6
+15,México,194,Tultitlán,2021_2022,9
+15,México,13,Valle de Aragón,2021_2022,9.7
+15,México,82,Villa Victoria,2021_2022,9
+16,Michoacán de Ocampo,85,Apatzingán,2021_2022,6.7
+16,Michoacán de Ocampo,256,Ciudad Hidalgo,2021_2022,14.4
+16,Michoacán de Ocampo,87,La Piedad,2021_2022,12.9
+16,Michoacán de Ocampo,35,Lázaro Cárdenas,2021_2022,13.5
+16,Michoacán de Ocampo,180,Los Reyes,2021_2022,12.2
+16,Michoacán de Ocampo,83,Morelia I,2021_2022,16.1
+16,Michoacán de Ocampo,239,Morelia II,2021_2022,6.1
+16,Michoacán de Ocampo,84,Pátzcuaro,2021_2022,14.8
+16,Michoacán de Ocampo,167,Sahuayo,2021_2022,15.4
+16,Michoacán de Ocampo,89,Uruapan,2021_2022,12.2
+16,Michoacán de Ocampo,86,Zacapu,2021_2022,9.4
+16,Michoacán de Ocampo,88,Zamora,2021_2022,14.4
+16,Michoacán de Ocampo,240,Zitácuaro,2021_2022,8.7
+17,Morelos,173,Cuautla,2021_2022,18.9
+17,Morelos,241,Cuernavaca,2021_2022,17.1
+17,Morelos,294,Jiutepec - Calera Chica,2021_2022,9.9
+17,Morelos,36,Temixco,2021_2022,11.5
+17,Morelos,283,Tepoztlán,2021_2022,19.3
+18,Nayarit,311,Bahia de Banderas,2021_2022,12
+18,Nayarit,257,Peñita de Jaltemba,2021_2022,16.5
+18,Nayarit,169,Tepic,2021_2022,16.2
+18,Nayarit,310,Tepic II,2021_2022,16.1
+19,Nuevo León,332,Cadereyta Jiménez,2021_2022,24.9
+19,Nuevo León,296,Don Benjamín Salinas Westrup,2021_2022,17.4
+19,Nuevo León,290,Don Carlos Maldonado Elizondo,2021_2022,18.6
+19,Nuevo León,242,Don Humberto Lobo Villarreal,2021_2022,20.3
+19,Nuevo León,213,Don José María Hernández Martínez,2021_2022,27.2
+19,Nuevo León,90,Don Protasio Rodríguez Cuéllar,2021_2022,32.7
+19,Nuevo León,295,Don Víctor Gómez Garza,2021_2022,25
+19,Nuevo León,135,Dr. Arroyo,2021_2022,19.1
+19,Nuevo León,289,Dr. Carlos Canseco González,2021_2022,29
+19,Nuevo León,123,Dr. Eduardo Macías Santos,2021_2022,19.7
+19,Nuevo León,254,Ing. Adrián Sada Treviño,2021_2022,25
+19,Nuevo León,91,Ing. Gustavo M. de la Garza Ortega,2021_2022,21.5
+19,Nuevo León,37,Ing. José Antonio Padilla Segura I,2021_2022,26
+19,Nuevo León,300,Joel Rocha Barocio,2021_2022,20.2
+19,Nuevo León,314,José María Parás y Ballesteros,2021_2022,22.2
+19,Nuevo León,333,Lic. Bárbara Herrera de Garza,2021_2022,33.4
+19,Nuevo León,38,Lic. Raúl Rangel Frias,2021_2022,30.5
+19,Nuevo León,157,Dr. Victor Bravo Ahuja-Tuxtepec,2021_2022,18.5
+20,Oaxaca,145,Gral. Antonio de León,2021_2022,14.9
+20,Oaxaca,243,Juchitán,2021_2022,13.1
+20,Oaxaca,39,Oaxaca,2021_2022,22.4
+20,Oaxaca,158,Puerto Escondido,2021_2022,22.2
+20,Oaxaca,155,Salina Cruz,2021_2022,9.6
+21,Puebla,93,Atencingo,2021_2022,11
+21,Puebla,151,Calipam,2021_2022,8.6
+21,Puebla,265,Chipilo,2021_2022,21.6
+21,Puebla,152,Huauchinango,2021_2022,12.4
+21,Puebla,40,Puebla I,2021_2022,8.7
+21,Puebla,175,Puebla II,2021_2022,17.8
+21,Puebla,261,Puebla III,2021_2022,16.8
+21,Puebla,149,San Martín Texmelucan,2021_2022,13.7
+21,Puebla,150,Tehuacán,2021_2022,14
+21,Puebla,153,Teziutlán,2021_2022,5.9
+22,Querétaro de Arteaga,328,Aeronáutico,2021_2022,12.5
+22,Querétaro de Arteaga,280,Amealco,2021_2022,9.4
+22,Querétaro de Arteaga,336,Querétaro,2021_2022,21.2
+22,Querétaro de Arteaga,41,Querétaro II,2021_2022,25.5
+22,Querétaro de Arteaga,42,San Juan del Rio,2021_2022,20.4
+23,Quintana Roo,9,Cancún,2021_2022,6.1
+23,Quintana Roo,286,Cancún II,2021_2022,3.2
+23,Quintana Roo,298,Cancún III,2021_2022,11.2
+23,Quintana Roo,339,Cancún IV,2021_2022,13.8
+23,Quintana Roo,65,Cozumel,2021_2022,12.5
+23,Quintana Roo,102,Felipe Carrillo Puerto,2021_2022,13.3
+23,Quintana Roo,7,Lic. Jesús Martínez Ross - Chetumal,2021_2022,9.7
+23,Quintana Roo,297,Playa del Carmen,2021_2022,7.2
+24,San Luis Potosí,44,Ciudad Valles,2021_2022,7.1
+24,San Luis Potosí,205,Ing. Manuel Moreno Torres S.L.P.,2021_2022,15.1
+24,San Luis Potosí,43,Matehuala,2021_2022,10.3
+24,San Luis Potosí,94,San Luis Potosí,2021_2022,16.8
+24,San Luis Potosí,176,Villa de Reyes,2021_2022,7.8
+25,Sinaloa,316,Culiacan III,2021_2022,4.9
+25,Sinaloa,329,Culiacan IV,2021_2022,13.7
+25,Sinaloa,116,El Carrizo,2021_2022,15.6
+25,Sinaloa,121,El Rosario,2021_2022,9.6
+25,Sinaloa,317,Escuinapa,2021_2022,11.7
+25,Sinaloa,118,Guasave,2021_2022,8.2
+25,Sinaloa,114,Ing. José Antonio Padilla Segura-Culiacán II,2021_2022,10.2
+25,Sinaloa,95,Juan de Dios Bátiz,2021_2022,7.4
+25,Sinaloa,117,Juan José Ríos,2021_2022,8.7
+25,Sinaloa,120,La Reforma,2021_2022,13.4
+25,Sinaloa,45,Los Mochis,2021_2022,5.5
+25,Sinaloa,315,Los Mochis II,2021_2022,18.2
+25,Sinaloa,46,Mazatlán I,2021_2022,4.8
+25,Sinaloa,62,Mazatlán II,2021_2022,9.3
+25,Sinaloa,119,Mocorito,2021_2022,15.2
+25,Sinaloa,115,Navolato,2021_2022,8.1
+26,Sonora,253,Agua Prieta,2021_2022,20.7
+26,Sonora,141,Alvaro Obregón Salido - Huatabampo,2021_2022,18.5
+26,Sonora,148,Caborca,2021_2022,17.8
+26,Sonora,96,Ciudad Obregón,2021_2022,14.9
+26,Sonora,97,Empalme,2021_2022,10.5
+26,Sonora,50,Gral. Plutarco Elías Calles - Guaymas,2021_2022,15.5
+26,Sonora,47,Hermosillo I,2021_2022,15.8
+26,Sonora,48,Hermosillo II,2021_2022,25.1
+26,Sonora,179,Hermosillo III,2021_2022,16
+26,Sonora,264,Magdalena de Kino,2021_2022,10.8
+26,Sonora,49,Nacozari,2021_2022,12.5
+26,Sonora,140,Navojoa,2021_2022,15
+26,Sonora,142,Nogales,2021_2022,17.3
+26,Sonora,202,San Luis Río Colorado,2021_2022,9
+27,Tabasco,52,Cárdenas,2021_2022,8.9
+27,Tabasco,291,Comalcalco,2021_2022,4.6
+27,Tabasco,99,Lic. Manrique Dagdug Urgell,2021_2022,10.1
+27,Tabasco,53,Macuspana,2021_2022,3.2
+27,Tabasco,100,Paraíso,2021_2022,6.7
+27,Tabasco,51,Villahermosa I,2021_2022,7.2
+27,Tabasco,98,Villahermosa II,2021_2022,6.7
+28,Tamaulipas,127,Ciudad Mante,2021_2022,12.6
+28,Tamaulipas,172,Ciudad Victoria,2021_2022,2.9
+28,Tamaulipas,55,Matamoros,2021_2022,4.3
+28,Tamaulipas,259,Miguel Alemán,2021_2022,14
+28,Tamaulipas,246,Nuevo Laredo,2021_2022,6.6
+28,Tamaulipas,129,Reynosa,2021_2022,11.2
+28,Tamaulipas,200,Río Bravo,2021_2022,4.8
+28,Tamaulipas,54,Tampico,2021_2022,5.4
+29,Tlaxcala,56,Amaxac de Guerrero,2021_2022,9.4
+29,Tlaxcala,251,Teacalco,2021_2022,5.5
+29,Tlaxcala,101,Zacualpan,2021_2022,6.8
+30,Veracruz Llave,337,Alamo,2021_2022,3.4
+30,Veracruz Llave,338,Cordoba,2021_2022,11.8
+30,Veracruz Llave,58,Don Juan Osorio López,2021_2022,8.1
+30,Veracruz Llave,122,Dr. Gonzalo Aguirre Beltrán,2021_2022,7.4
+30,Veracruz Llave,201,Dr. Guillermo Figueroa Cárdenas,2021_2022,7
+30,Veracruz Llave,104,Juan Díaz Covarrubias,2021_2022,2.4
+30,Veracruz Llave,165,Lic. Jesús Reyes Heroles,2021_2022,10.1
+30,Veracruz Llave,244,Manuel Maples Arce,2021_2022,2.2
+30,Veracruz Llave,162,Manuel Rivera Cambas,2021_2022,9.2
+30,Veracruz Llave,252,Orizaba,2021_2022,4.5
+30,Veracruz Llave,103,Potrero,2021_2022,10.8
+30,Veracruz Llave,177,Poza Rica,2021_2022,7.9
+30,Veracruz Llave,320,Vega de Alatorre,2021_2022,12.7
+30,Veracruz Llave,57,Veracruz I,2021_2022,8.4
+30,Veracruz Llave,144,Veracruz II,2021_2022,9.7
+31,Yucatán,59,Mérida I,2021_2022,16.5
+31,Yucatán,60,Mérida II,2021_2022,20.1
+31,Yucatán,324,Mérida III,2021_2022,14
+31,Yucatán,164,Tizimin,2021_2022,8.7
+31,Yucatán,105,Valladolid,2021_2022,9.5
+32,Zacatecas,137,Fresnillo,2021_2022,29.8
+32,Zacatecas,136,Maestra Dolores Castro Varela,2021_2022,24.3
+32,Zacatecas,326,Mazapil,2021_2022,22.6
+,,,,,
+,CONALEP,,CONALEP,,14.8
